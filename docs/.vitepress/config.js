@@ -1,4 +1,4 @@
 module.exports = {
-  title: 'Hello VitePress',
-  description: 'Just playing around.'
+  title: 'data.gouv.fr - documentation',
+  description: 'data.gouv.fr - documentation'
 }
