@@ -9,6 +9,6 @@ export default {
   ...DefaultTheme,
   Layout,
   enhanceApp({ app }) {
-      app.use(VueDsfr)
+    app.use(VueDsfr)
   }
 }

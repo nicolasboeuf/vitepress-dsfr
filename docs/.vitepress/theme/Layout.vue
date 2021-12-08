@@ -4,6 +4,7 @@
     logoText="Etalab"
     serviceTitle="Doc.data.gouv.fr"
     serviceDescription="data.gouv.fr - documentation"
+    homeTo="https://google.com"
   />
   <div class="fr-container fr-mt-5w">
     <Content class="fr-col-8" />
