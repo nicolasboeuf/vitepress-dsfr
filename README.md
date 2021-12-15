@@ -6,7 +6,7 @@ Le composant router-link n'est pas résolu donc les liens du header/footer ne ma
 
 Récupération des variables de .vitepress/config.js -> module.exports dans Layout.vue
 
-Include sidebar
+Include sidebar in Layout (automatic if no Layou is used) ou use menu component (unable to register)
 
 ## Usage
 
