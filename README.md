@@ -6,7 +6,7 @@ Le composant router-link n'est pas résolu donc les liens du header/footer ne ma
 
 Récupération des variables de .vitepress/config.js -> module.exports dans Layout.vue
 
-Table of content (articles/api/intro.md par ex.)
+Include sidebar
 
 ## Usage
 

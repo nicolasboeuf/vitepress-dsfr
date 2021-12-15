@@ -5,9 +5,7 @@ order: 1
 
 # Introduction
 
-{:.no_toc}
-- TOC
-{:toc}
+[[toc]]
 
 ## Racine
 
@@ -53,7 +51,7 @@ Par exemple, un dataset `5bbb6d6cff66bd4dc17bfd5a` dont le slug est `mon-dataset
 
 Les listes simples sont renvoyées sous forme d’une liste JSON.
 
-Par exemple, [la liste des types de réutilisations]({{ site.baseurl }}{% link _api/reference.md %}#/reuses/reuse_types):
+Par exemple, [la liste des types de réutilisations]:
 
 ```json
 [
@@ -128,4 +126,4 @@ Parfois, la réponse en erreur comprend une entête `X-Sentry-ID`. Pensez à fou
 
 ## Documentation de référence
 
-Vous pouvez consulter la documentation de référence complète de l’API [ici]({{ site.baseurl }}{% link _api/reference.md %})
+Vous pouvez consulter la documentation de référence complète de l’API [ici]
